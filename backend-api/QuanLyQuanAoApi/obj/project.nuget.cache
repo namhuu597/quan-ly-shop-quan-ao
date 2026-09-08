@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "j//18SX9rtk=",
+  "dgSpecHash": "b0UHvD8jIrE=",
   "success": true,
-  "projectFilePath": "D:\\Projects\\QuanLyQuanAoApi\\QuanLyQuanAoApi.csproj",
+  "projectFilePath": "D:\\QuanLyShopQuanAo\\backend-api\\QuanLyQuanAoApi\\QuanLyQuanAoApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\namhu\\.nuget\\packages\\bcrypt.net-next\\4.2.0\\bcrypt.net-next.4.2.0.nupkg.sha512",
     "C:\\Users\\namhu\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

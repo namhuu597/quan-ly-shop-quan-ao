@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\QuanLyQuanAoApi\\QuanLyQuanAoApi.csproj": {}
+    "D:\\QuanLyShopQuanAo\\backend-api\\QuanLyQuanAoApi\\QuanLyQuanAoApi.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\QuanLyQuanAoApi\\QuanLyQuanAoApi.csproj": {
+    "D:\\QuanLyShopQuanAo\\backend-api\\QuanLyQuanAoApi\\QuanLyQuanAoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\QuanLyQuanAoApi\\QuanLyQuanAoApi.csproj",
+        "projectUniqueName": "D:\\QuanLyShopQuanAo\\backend-api\\QuanLyQuanAoApi\\QuanLyQuanAoApi.csproj",
         "projectName": "QuanLyQuanAoApi",
-        "projectPath": "D:\\Projects\\QuanLyQuanAoApi\\QuanLyQuanAoApi.csproj",
+        "projectPath": "D:\\QuanLyShopQuanAo\\backend-api\\QuanLyQuanAoApi\\QuanLyQuanAoApi.csproj",
         "packagesPath": "C:\\Users\\namhu\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\QuanLyQuanAoApi\\obj\\",
+        "outputPath": "D:\\QuanLyShopQuanAo\\backend-api\\QuanLyQuanAoApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\namhu\\AppData\\Roaming\\NuGet\\NuGet.Config"
