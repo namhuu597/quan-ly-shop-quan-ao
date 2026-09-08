@@ -1,25 +1,30 @@
-# ASP.NET
-backend-api/bin/
-backend-api/obj/
-backend-api/.vs/
+# =========================
+# ASP.NET Core
+# =========================
+**/bin/
+**/obj/
+**/.vs/
 
+# =========================
 # Visual Studio / VS Code
+# =========================
 .vs/
 .vscode/
-
-# User-specific
 *.user
 *.suo
 
+# =========================
 # Logs
+# =========================
 *.log
 
+# =========================
 # OS
+# =========================
 Thumbs.db
 .DS_Store
 
-# PHP / uploads nếu không muốn đẩy ảnh test
-# frontend-php/uploads/
-
+# =========================
 # Secrets
-backend-api/appsettings.Development.json
+# =========================
+**/appsettings.Development.json
